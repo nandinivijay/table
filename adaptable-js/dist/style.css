@@ -71,7 +71,7 @@ body {
   color: #fff;
   background: #871c0a;
   /* Old browsers */
-  background: linear-gradient(45deg, #871c0a 20%, #fc7c0f 61%, #fd7914 100%);
+  background: linear-gradient(to bottom right, green, yellow);
   background-size: cover;
 }
 
